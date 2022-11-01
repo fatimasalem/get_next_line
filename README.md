@@ -19,6 +19,10 @@ The aim of this projct is creating a function called get_next_line() in which wh
 
 <img width="612" alt="Screen Shot 2022-11-01 at 7 18 02 PM" src="https://user-images.githubusercontent.com/106735363/199268867-ab92a1c1-7286-4372-9ab2-5b08d09ad48e.png">
 
+- touch 42.txt (txt file should be created so the project finds the file to read from)
+
+<img width="611" alt="Screen Shot 2022-11-01 at 7 34 28 PM" src="https://user-images.githubusercontent.com/106735363/199273268-8f7a970f-676a-4a34-aafe-9ba29a25012a.png">
+
 - cc -Wall -Werror -Wextra -D BUFFER_SIZE=n <file.c>
 
 compiler call: -D BUFFER_SIZE=n
