@@ -38,6 +38,10 @@ will define the buffer size for read().
 
 - Learning deeply about open(), read(), close(), static variables and file descriptors.
 
+## Challenges 👩🏻‍💻
+
+In This project learning the about the buffer and finding the solution to make my function read any amount of text corecttly without messing any letter or integer or special character from a file descriptor or from the standard output. Learning about the functions open(), read() and close() contributed in finding the right path to find the best solution.
+
 ## Project grade
 
 <img width="202" alt="Screen Shot 2022-11-01 at 7 23 33 PM" src="https://user-images.githubusercontent.com/106735363/199270737-cb3ade05-cb0d-4da2-b980-cc59a6f878dc.png">
