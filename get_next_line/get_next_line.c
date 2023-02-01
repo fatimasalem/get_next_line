@@ -121,4 +121,5 @@ int	main(void)
 		line = get_next_line(fd);
 	}
 	printf("%s\n", str);
+	free(str);
 }
