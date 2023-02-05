@@ -12,14 +12,12 @@
 ## Content <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794706-2217efb5-dc29-496f-89f9-f9b9b87f4c4f.gif" alt="icon" width="20" height="20"/>
 
 
- - [About](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#about-)
- - [Development](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#development-)
- - [Mandatory](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#mandatory)
- - [Bonus](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#bonus)
-- [Purpose](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#the-purpose-of-this-project-)
-- [Challenges](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#challenges--)
-- [Project Grade](https://github.com/FatimaSalem/get_next_line/edit/main/README.md#project-grade--
-)
+ - [About](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Development](https://github.com/matiassingers/awesome-readme)
+ - [Acheivments](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Challenges](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Project Grade](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [Contact](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## About<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794805-97aa0eef-1126-4867-93bf-d2d23d1e218c.gif" alt="icon" width="20" height="20"/>
 
@@ -40,7 +38,8 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 ```bash
   make all
 ```
-![render1675553975744](https://user-images.githubusercontent.com/106735363/216794136-e3bd12ab-7883-4cf3-bd78-c58d99378b55.gif)
+<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794136-e3bd12ab-7883-4cf3-bd78-c58d99378b55.gif" alt="icon" width="500" height="300"/>
+
 
 > ## Mandatory
 > 2) Makefile generates the `Mandatory` src files and a `test file` to be moved to the same directory
@@ -50,19 +49,17 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 >
 > `NOTE`: This is not required however adding it gives a clear view on what's going on
 
-![render1675556155731](https://user-images.githubusercontent.com/106735363/216795146-9f4c96ba-ed40-4b3f-bee6-f4aac594103c.gif)
+<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216795146-9f4c96ba-ed40-4b3f-bee6-f4aac594103c.gif" alt="icon" width="500" height="300"/>
 
 > ## Bonus
 > 4) Makefile generates the `Bonus` src files and three `test files` to be moved to the same directory and each test file holds the same content
 > 5) The program outputs the following:
-> - Filename
 > - Text size
 > - Text content
 >
 > `NOTE`: This is not required however adding it gives a clear view on what's going on
 
-![render1675556794608](https://user-images.githubusercontent.com/106735363/216795384-beb3c6e0-d007-47b6-864f-cc3f5d321723.gif)
-
+<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216795384-beb3c6e0-d007-47b6-864f-cc3f5d321723.gif" alt="icon" width="500" height="300"/>
 
 ## The purpose of this project<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216795435-5c0164d1-5b2c-4855-a169-f6422bc6a643.gif" alt="icon" width="30" height="30"/>
 
@@ -73,13 +70,12 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 
 >In this project learning the about the buffer and finding the solution to make my function read any amount of text corecttly without messing any letter or integer or special character from a file descriptor or from the standard output. Learning about the functions open(), read() and close() contributed in finding the right path to find the best solution.
 
-## Project Grade <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216795498-707d3817-3203-49be-975c-fcc5ab67af6f.gif" alt="icon" width="30" height="30"/>
+## Project grade <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216795498-707d3817-3203-49be-975c-fcc5ab67af6f.gif" alt="icon" width="30" height="30"/>
 
 <img width="202" alt="Screen Shot 2022-11-01 at 7 23 33 PM" src="https://user-images.githubusercontent.com/106735363/199270737-cb3ade05-cb0d-4da2-b980-cc59a6f878dc.png">
 
 
 ---
-
 <footer>
 
 [![GitHub](https://img.shields.io/badge/FatimaSalem-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatimaSalem)&nbsp;&nbsp;
@@ -88,4 +84,3 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 [![](https://img.shields.io/badge/FatimaSalem-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](FatimaSalem421999@gmail.com)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/FatimaSalem-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FatimaAljaari)&nbsp;&nbsp;
 </footer>
-
