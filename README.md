@@ -1,10 +1,13 @@
+<h1>
 
-# get_next_line <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216785235-ee2a3f7e-7835-4164-a55b-a0acef3310fc.gif" alt="icon" width="30" height="30"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=435&lines=Get_Next_Line)](https://git.io/typing-svg)<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216785235-ee2a3f7e-7835-4164-a55b-a0acef3310fc.gif" alt="icon" width="30" height="30"></h1>
 
 
 <p align="justify">
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </p>
 
 
@@ -54,6 +57,7 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 > ## Bonus
 > 4) Makefile generates the `Bonus` src files and three `test files` to be moved to the same directory and each test file holds the same content
 > 5) The program outputs the following:
+> - Filename
 > - Text size
 > - Text content
 >
