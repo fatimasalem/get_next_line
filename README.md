@@ -15,12 +15,13 @@
 ## Content <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794706-2217efb5-dc29-496f-89f9-f9b9b87f4c4f.gif" alt="icon" width="20" height="20"/>
 
 
- - [About](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Development](https://github.com/matiassingers/awesome-readme)
- - [Acheivments](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Challenges](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [Project Grade](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [Contact](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ 
+ - [About](https://github.com/FatimaSalem/get_next_line#about-)
+ - [Development](https://github.com/FatimaSalem/get_next_line#Development-)
+ - [Acheivments](https://github.com/FatimaSalem/get_next_line#Acheivments-)
+ - [Challenges](https://github.com/FatimaSalem/get_next_line#Challenges-)
+- [Project Grade](https://github.com/FatimaSalem/get_next_line#Project-Grade-)
+- [Contact](https://github.com/FatimaSalem/get_next_line#Contact-)
 
 ## About<td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216794805-97aa0eef-1126-4867-93bf-d2d23d1e218c.gif" alt="icon" width="20" height="20"/>
 
