@@ -1,5 +1,4 @@
 <h1>
-<h1>
 <td align="justify"> <img src="https://user-images.githubusercontent.com/106735363/216785235-ee2a3f7e-7835-4164-a55b-a0acef3310fc.gif" alt="icon" width="50" height="50"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=435&lines=Get_Next_Line)](https://git.io/typing-svg)
