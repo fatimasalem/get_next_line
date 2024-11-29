@@ -82,8 +82,7 @@ The `aim` of this projct is creating a function called `get_next_line()` in whic
 <footer>
 
 [![GitHub](https://img.shields.io/badge/FatimaSalem-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FatimaSalem)&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/FatimaSalem-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-salem/)&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/FatimaSalem-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fatimaaljaari/)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/FatimaSalem-000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://42abudhabi.ae/?utm_source=Google&utm_medium=search&utm_campaign=42ADSearchBrand&gclid=CjwKCAiA_vKeBhAdEiwAFb_nrVGpv_S9kqE6sIasBBlWqiLGgbBQsRbnKnPPwqmcwvcK_Oe-SXGhRBoCZbcQAvD_BwE)&nbsp;&nbsp;
 [![](https://img.shields.io/badge/FatimaSalem-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](FatimaSalem421999@gmail.com)&nbsp;&nbsp;
-[![](https://img.shields.io/badge/FatimaSalem-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/FatimaAljaari)&nbsp;&nbsp;
 </footer>
